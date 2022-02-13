@@ -252,10 +252,9 @@ SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, R
 13.	School Captain in Xth Standard 
 14.	Seven years Diploma in Painting
 
+  
+  ![IMG-20180323-WA0019](https://user-images.githubusercontent.com/91571551/153748051-6e5ce6d2-5fbb-47ee-8d88-3cf200571cca.jpg width="100" height="100")
 
-<center>
-  ![IMG-20180323-WA0019](https://user-images.githubusercontent.com/91571551/153747921-9f63caed-fc18-4fa4-87d7-d7e9d5d1b037.jpg)
-  <center/>
 
 
 My [LinkedIn Account](https://www.linkedin.com/in/vinita-parasrampuria)
