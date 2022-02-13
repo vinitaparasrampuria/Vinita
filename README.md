@@ -252,12 +252,11 @@ SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, R
 13.	School Captain in Xth Standard 
 14.	Seven years Diploma in Painting
 
-  
-
-  <src img="https://user-images.githubusercontent.com/91571551/153748734-699da1ee-da16-4efb-acfb-36a38a52ee23.jpg" width="300" height="300">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/91571551/153748859-df84d345-95ce-4dbb-aab0-283d218c5524.jpg" width="300" height="300">
 
 
-My [LinkedIn Account](https://www.linkedin.com/in/vinita-parasrampuria)
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[LinkedIn](https://www.linkedin.com/in/vinita-parasrampuria)|[Instagram](https://www.instagram.com/vinita_parasrampuria)
 
 
 
