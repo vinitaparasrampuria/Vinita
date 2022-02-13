@@ -1,4 +1,3 @@
-[See mee](assets/IMG-20180323-WA0019.jpg)
 ## Vinita Parasrampuria
 
 Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
@@ -252,6 +251,12 @@ SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, R
 12.	Participation in National Scheme Service
 13.	School Captain in Xth Standard 
 14.	Seven years Diploma in Painting
+
+
+<center>
+  ![IMG-20180323-WA0019](https://user-images.githubusercontent.com/91571551/153747921-9f63caed-fc18-4fa4-87d7-d7e9d5d1b037.jpg)
+  <center/>
+
 
 My [LinkedIn Account](https://www.linkedin.com/in/vinita-parasrampuria)
 
