@@ -2,59 +2,64 @@
 
 Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
 
--[Education](#education)                   -[Work Experience](#work-experience)            -[Projects](#projects)
--[Awards and Honours](#awards-and-honours) -[Areas of Responsibility](#areas-of-responsibility)-[Technical Skills](#technical-skills)
-[Language](#languages)      [Certifications](#certifications)                   [Extra Activities](#extra-activities)
+[Education](#education) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Work Experience](#work-experience) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Projects](#projects) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+[Awards and Honours](#awards-and-honours) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;[Areas of Responsibility](#areas-of-responsibility) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Technical Skills](#technical-skills) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+[Language](#language) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;[Certifications](#certifications) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Extra Activities](#extra-activities)
+
+
 
 
 
 #### Education
-New York University, Tandon School of Engineering, Brooklyn, NY			
-Aug 2021 to May 2023
-Master of Science, Computer Engineering
+**New York University, Tandon School of Engineering**, Brooklyn, NY, USA<br/>*Aug 2021 to May 2023*<br/>
+Master of Science, Computer Engineering, CGPA: 3.89/4.0<br/>
+(Internet Architecture & Protocol, Data Structure & Algorithms, Network Modeling & Analysis, Introduction to JAVA)
 
-Jadavpur University, Kolkata, West Bengal						
-July 2012 to May 2016
-Bachelors of Engineering, Instrumentation and Electronics, CGPA: 9.56
+
+**Jadavpur University**, Kolkata, West Bengal, India<br/>*July 2012 to May 2016*<br/>
+Bachelors of Engineering, Instrumentation and Electronics, CGPA: 9.56/10.0
 
 #### Work Experience
 
-Senior Instrumentation Engineer, Cairn Oil & Gas, Vedanta Ltd. July 2016 to Aug 2021
+**Senior Instrumentation Engineer**, Cairn Oil & Gas, Vedanta Ltd. 
+<br/>*July 2016 to Aug 2021*
 
 ##### Roles and Responsibilities: 			
-•	Logic & Graphic development in DCS, SCS and PLC-Yokogawa, Allen Bradley & Siemens system.
-•	Maintenance, installation & commissioning of field instruments, engines, compressors, control panels, fire alarm and suppression system, control systems, etc.
-•	Global Action Tracker points implementation and closure within timelines. 
-•	SMPs creation for new equipment and revision of existing ones(approx 40) every six monthly.
-•	Checklist creation and revision incorporating all the checkpoints from OEM manuals of around 50 instruments.
-•	Collection of field instruments data(around 3000 instruments), creation of Functional location, equipment number, PM strategy, PM plans and schedule in Excel and SAP for four oil well pads and one gas plant.
-•	Creation of Safety Critical List of three gas plant, seven gas well pads and nine crude oil fields.
-•	Creation of Run To Fail instruments list for three gas plant, seven gas well pads and nine crude oil fields.
-•	ABC analysis of around 6000 instruments followed up by BCE analysis.
-•	Maintenance and troubleshooting of field instruments, preparation of checklists, initiating deferrals if any and timely execution of deferred activity. Carried out digital tracking of regular maintenance and breakdown activities through orders and notifications in SAP.
-•	Inventory management of all the instrumentation spares including BOM preparation, quotation arrangement from vendor, codification of material in Pilog and SAP, budget allocation, PR initiation, TBE , coordination with PSCM, finance, warehouse and vendor for material delivery, material inspection and quality approval in SAP.
-•	Carried out VED analysis of instrument spares.
-•	Efficient utilisation of inventory throughout the company by checking their stock and raising request for tranfer of extra material.
-•	Identification of NMI stock and either planning its utilization or tagging its availability for other sites.
-•	Contract management for maintenance of field instruments and establishment of AMCs which includes preparation of SOW, arranging quotation from vendor, contract initiation in SAP, TBE,  COO creation, mobilisation and demobilisation, execution of activity and releasing payments.
-•	Keeping a track of department monthly and yearly expenses by updating VOWD.
-•	GHG emission reduction by maintaining uptime of GEG, operating burners in gas mode, installation of electricity board power in place of Diesel Generators, upkeep of solar plant.
-•	Preparation  for IMS audit conducted by DNV GL (ISO 14001:2015)- HIRA, ERA, CIPs, skill matrix,  training calendars.
-•	Preparation for 5S audit conducted by QCFI. Was lead auditee to represent my team.
-•	Preparation for DGMS audit for mines safety. Was lead auditee in DGMS audit from Instrumentation
-•	Preparation for VSAP audit- Sustainability audit of Vedanta group. Was champion of ”Assessment and Continual Improvement” module and lead auditee for that module.
-•	Preparation for hydrocarbon accounting audit done by Deliotte.
-•	Preparation for Asset Optimization audit conducetd by KPMG and PWC.
-•	As part of audits OISD,prepared required documents and carried out field inspection.
-•	On job training to third party technicians and engineers on topics related to instrumentation and HSE. Also enhanced their soft skills in excel and SAP.
-•	Taking active and positive participation in sharing and grooming of GETs like technical discussions, routine maintenance planning, SAP PM & MM familiarization.
-•	Carrying out PSSR of new projects or plants that are shut down for more than three months. 
-•	Cyber security implementation at site. USB lockers fixed in all systems to control transfer of data, assignment of user specific login  and tracker for ICS change request forms 
-•	HAZOP study for new oil well pads and in house projects.
-•	Preparation of questionnaire, imparting trainings , pre and post evaluation along with feedbacks.
-•	In house refurbishment activities done for switches, servomotor, transmitters, damper motor, etc
-•	Monthly calibration of gas metering skid with customer.
-•	Preparation of monthly and weekly reports.
+-Logic & Graphic development in DCS, SCS and PLC-Yokogawa, Allen Bradley & Siemens system.
+-Maintenance, installation & commissioning of field instruments, engines, compressors, control panels, fire alarm and suppression system, control systems, etc.
+-Global Action Tracker points implementation and closure within timelines. 
+-SMPs creation for new equipment and revision of existing ones(approx 40) every six monthly.
+-Checklist creation and revision incorporating all the checkpoints from OEM manuals of around 50 instruments.
+-Collection of field instruments data(around 3000 instruments), creation of Functional location, equipment number, PM strategy, PM plans and schedule in Excel and SAP for four oil well pads and one gas plant.
+-Creation of Safety Critical List of three gas plant, seven gas well pads and nine crude oil fields.
+-Creation of Run To Fail instruments list for three gas plant, seven gas well pads and nine crude oil fields.
+-ABC analysis of around 6000 instruments followed up by BCE analysis.
+-Maintenance and troubleshooting of field instruments, preparation of checklists, initiating deferrals if any and timely execution of deferred activity. Carried out digital tracking of regular maintenance and breakdown activities through orders and notifications in SAP.
+-Inventory management of all the instrumentation spares including BOM preparation, quotation arrangement from vendor, codification of material in Pilog and SAP, budget allocation, PR initiation, TBE , coordination with PSCM, finance, warehouse and vendor for material delivery, material inspection and quality approval in SAP.
+-Carried out VED analysis of instrument spares.
+-Efficient utilisation of inventory throughout the company by checking their stock and raising request for tranfer of extra material.
+-Identification of NMI stock and either planning its utilization or tagging its availability for other sites.
+-Contract management for maintenance of field instruments and establishment of AMCs which includes preparation of SOW, arranging quotation from vendor, contract initiation in SAP, TBE,  COO creation, mobilisation and demobilisation, execution of activity and releasing payments.
+-Keeping a track of department monthly and yearly expenses by updating VOWD.
+-GHG emission reduction by maintaining uptime of GEG, operating burners in gas mode, installation of electricity board power in place of Diesel Generators, upkeep of solar plant.
+-Preparation  for IMS audit conducted by DNV GL (ISO 14001:2015)- HIRA, ERA, CIPs, skill matrix,  training calendars.
+-Preparation for 5S audit conducted by QCFI. Was lead auditee to represent my team.
+-Preparation for DGMS audit for mines safety. Was lead auditee in DGMS audit from Instrumentation
+-Preparation for VSAP audit- Sustainability audit of Vedanta group. Was champion of ”Assessment and Continual Improvement” module and lead auditee for that module.
+-Preparation for hydrocarbon accounting audit done by Deliotte.
+-Preparation for Asset Optimization audit conducetd by KPMG and PWC.
+-As part of audits OISD,prepared required documents and carried out field inspection.
+-On job training to third party technicians and engineers on topics related to instrumentation and HSE. Also enhanced their soft skills in excel and SAP.
+-Taking active and positive participation in sharing and grooming of GETs like technical discussions, routine maintenance planning, SAP PM & MM familiarization.
+-Carrying out PSSR of new projects or plants that are shut down for more than three months. 
+-Cyber security implementation at site. USB lockers fixed in all systems to control transfer of data, assignment of user specific login  and tracker for ICS change request forms 
+-HAZOP study for new oil well pads and in house projects.
+-Preparation of questionnaire, imparting trainings , pre and post evaluation along with feedbacks.
+-In house refurbishment activities done for switches, servomotor, transmitters, damper motor, etc
+-Monthly calibration of gas metering skid with customer.
+-Preparation of monthly and weekly reports.
 
 
 ##### Project: 
@@ -144,32 +149,32 @@ Monitoring of parameters at one place, reporting in Babel Fish.
 Uniformity in MCP by installing same kind of MCP at all sites for ease of operation.
 
 ##### Inter departmental Activities:
-•	Was involved in DG unloading activities at site.
-•	Initiated tree plantation activity at site.
-•	Involvement in installation and commissioning of RSEB power.
-•	Study of power requirement for the plant for smooth changeover from 110V to 220V UPS supply.
+-Was involved in DG unloading activities at site.
+-Initiated tree plantation activity at site.
+-Involvement in installation and commissioning of RSEB power.
+-Study of power requirement for the plant for smooth changeover from 110V to 220V UPS supply.
 
 
 
 ##### Asset Optimization:
-o	Tracking of non-moving inventory ensured, and NMI material made available across all sites that saved raising of purchase requisition orders and led to cost saving
-o	Ensured spares refurbishment of damaged materials and saved cost on purchase of new material
-o	Kept a track of Preventive Maintenance (PM) Compliance
-o	Vital Essential Desirable categorization of spares in SAP
-o	Organized  root cause analysis study for major trips and breakdowns
-o	Carried out ABC analysis and SCE analysis for instruments
-o	MOC implementation and close out.
-o	Digitalization of Notification types in SAP.
+-Tracking of non-moving inventory ensured, and NMI material made available across all sites that saved raising of purchase requisition orders and led to cost saving
+-Ensured spares refurbishment of damaged materials and saved cost on purchase of new material
+-Kept a track of Preventive Maintenance (PM) Compliance
+-Vital Essential Desirable categorization of spares in SAP
+-Organized  root cause analysis study for major trips and breakdowns
+-Carried out ABC analysis and SCE analysis for instruments
+-MOC implementation and close out.
+-Digitalization of Notification types in SAP.
 
 
 #### Projects
-Development of a QCM sensor for detection of trans-2-hexenal in tomatoes Year: 2016 | Conference Paper | Publisher: IEEE
-A coating material formed by the chemical reaction process of pentafluorobenzyl bromide (PFBBr), polyethylene glycol 6000 (PEG 6000), tri-ethyl amine and chloroform was developed. Different characterization of the sensor has been performed e.g. sensitivity, selectivity, repeatability, reproducibility and the performance was verified.
+-**Development of a QCM sensor for detection of trans-2-hexenal in tomatoes** Year: 2016 | Conference Paper | Publisher: IEEE<br/>
+A coating material formed by the chemical reaction process of pentafluorobenzyl bromide (PFBBr), polyethylene glycol 6000 (PEG 6000), tri-ethyl amine and chloroform was developed. Different characterization of the sensor has been performed e.g. sensitivity, selectivity, repeatability, reproducibility and the performance was verified.<br/>
 Tools: PCA and LDA in MATLAB
 
-Extraction and Quantification of Lycopene from Tomato samples using Cyclic Voltammetry
-Cyclic voltammetry based e-tongue in conjunction with UV-VIS spectroscopy was used to study the lycopene in various stages and different cultivars of tomato.
- Tools: PCA and LDA in MATLAB
+-**Extraction and Quantification of Lycopene from Tomato samples using Cyclic Voltammetry**<br/>
+Cyclic voltammetry based e-tongue in conjunction with UV-VIS spectroscopy was used to study the lycopene in various stages and different cultivars of tomato.<br/>
+Tools: PCA and LDA in MATLAB
 
 #### Awards and Honours
 
@@ -201,29 +206,32 @@ Cyclic voltammetry based e-tongue in conjunction with UV-VIS spectroscopy was us
 3.	SPOC of VSAP module nominated by top management- Singlehandedly prepared for implementation of ”Continual Improvement and Assessment” module at site, closure of audit point, keeping tracker on progress and presenting before the auditor
 
 #### Technical Skills
-Languages : C, C++,  Java, HTML
-Operating Systems: Windows,Linux, MacOS
-Others: SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, RSLogix 500, Factory Talk Studio,MATLAB
+#####Languages
+C, C++,  Java, HTML
+#####Operating Systems
+Windows,Linux, MacOS
+#####Others
+SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, RSLogix 500, Factory Talk Studio,MATLAB
 
 #### Summer Trainings:
-	2014-Summer Training at Reliance Power, Sasan
-	2015-Summer Training at National Thermal Power Plant, Farakka
+-2014-Summer Training at Reliance Power, Sasan
+-2015-Summer Training at National Thermal Power Plant, Farakka
 
 #### Language
 
-English
-Hindi
-Bengali
+-English
+-Hindi
+-Bengali
 
 #### Certifications
-•	Completed “Virtual Train the trainer” by Dale Carnegie which covered how to effectively conduct online trainings using Zoom and Teams platfom
-•	Completed IMIST- International Minimum Industry Safety Training (IMIST) training to ensure safety and compliance in Oil and Gas Industry. The IMIST standard ensures that workers have the necessary safety awareness and training to reduce risk and incidents
-•	Training on RSLogix 500 by Rockwell Automation completed. The course had project creation, logic building, use of subroutines, variables and practical exercises in its curriculum
-•	Completed two trainings on Centum VP DCS Fundamentals and Engineering and Operation of DCS system by Yokogawa. The course consisted demonstrations, laboratory exercises on system configuration, HIS and FCS builders, regulatory and calculation functions, control programs, graphics and advanced function block.
-•	Completed training on Explosion proof instruments which comprised of various types of explosion proof equipment, zone classification, IP ratings, practical exposure on glanding and termination of cables, fault finding in electrical installations etc..
-•	Successfully completed training on “From Campus to Corporate” by Dale Carnegie which involved process of acclimatizing to corporate world and build skills for effective communication.
-•	Completed training on Exploration and production by NeXT, Schlumberger by working on OilSim which is an upstream simulator for exploration and production.
-•	Completed “First Aid Training” which involved how to deal in various medical emergencies.
+-Completed “Virtual Train the trainer” by Dale Carnegie which covered how to effectively conduct online trainings using Zoom and Teams platfom
+-Completed IMIST- International Minimum Industry Safety Training (IMIST) training to ensure safety and compliance in Oil and Gas Industry. The IMIST standard ensures that workers have the necessary safety awareness and training to reduce risk and incidents
+-Training on RSLogix 500 by Rockwell Automation completed. The course had project creation, logic building, use of subroutines, variables and practical exercises in its curriculum
+-Completed two trainings on Centum VP DCS Fundamentals and Engineering and Operation of DCS system by Yokogawa. The course consisted demonstrations, laboratory exercises on system configuration, HIS and FCS builders, regulatory and calculation functions, control programs, graphics and advanced function block.
+-Completed training on Explosion proof instruments which comprised of various types of explosion proof equipment, zone classification, IP ratings, practical exposure on glanding and termination of cables, fault finding in electrical installations etc..
+-Successfully completed training on “From Campus to Corporate” by Dale Carnegie which involved process of acclimatizing to corporate world and build skills for effective communication.
+-Completed training on Exploration and production by NeXT, Schlumberger by working on OilSim which is an upstream simulator for exploration and production.
+-Completed “First Aid Training” which involved how to deal in various medical emergencies.
 
 #### Extra Activities
 
