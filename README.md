@@ -2,10 +2,8 @@
 
 Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
 
-##### [Education](#education)        ##### [Work Experience](#work-experience)     ##### [Projects](#prpjects)
-
-
-#### [Awards and Honours](#awards-and-honours)
+##### [Education](#education)        [Work Experience](#work-experience)     [Projects](#projects)
+<font size=2>[Awards and Honours](#awards-and-honours)<font size=2>
 #### [Areas of Responsibility](#areas-of-responsibility)
 #### [Technical Skills](#technical-skills)
 #### [Language](#languages)
