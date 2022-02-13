@@ -1,8 +1,17 @@
 ## Vinita Parasrampuria
 
-You can use the [editor on GitHub](https://github.com/vinitaparasrampuria/Vinita/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Education
+#### Work Experience
+#### Projects
+#### Awards and Honours
+#### Areas of Responsibility
+#### Technical Skills
+#### Language
+#### Certifications
+#### Extra Activities
+
 
 ### Markdown
 
