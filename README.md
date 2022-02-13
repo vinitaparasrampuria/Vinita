@@ -1,4 +1,4 @@
-[See mee]
+[See mee](assets/IMG-20180323-WA0019.jpg)
 ## Vinita Parasrampuria
 
 Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
