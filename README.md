@@ -2,7 +2,7 @@
 
 Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
 
-#### [Education](#awards-and-honours)        #### Work Experience      #### Projects
+##### [Education](#awards-and-honours)        ##### [Work Experience](#work-experience)     ##### [Projects](#prpjects)
 
 
 #### Awards and Honours
@@ -13,12 +13,11 @@ Currently pursuing Masters of Science degree in Computer Engineering at New York
 #### Extra Activities
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Education
+#### Work Experience
+#### Projects
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
