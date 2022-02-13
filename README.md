@@ -253,8 +253,8 @@ SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, R
 14.	Seven years Diploma in Painting
 
   
-  ![IMG-20180323-WA0019](https://user-images.githubusercontent.com/91571551/153748051-6e5ce6d2-5fbb-47ee-8d88-3cf200571cca.jpg width="100" height="100")
 
+  <src img="https://user-images.githubusercontent.com/91571551/153748734-699da1ee-da16-4efb-acfb-36a38a52ee23.jpg" width="300" height="300">
 
 
 My [LinkedIn Account](https://www.linkedin.com/in/vinita-parasrampuria)
