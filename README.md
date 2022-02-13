@@ -1,3 +1,4 @@
+![12224](https://user-images.githubusercontent.com/91571551/153746160-0dd8e009-d341-4e83-ab5e-6cad5df36d90.jpg)
 ## Vinita Parasrampuria
 
 Currently pursuing Masters of Science degree in Computer Engineering at New York University, I am a keen enthusiat to enhance my knowledge and put my skills to test under challenging and demanding conditions to drive for best results. I am particularly interested in Networking, object oriented programming and machine learning and want to expand my horizons in these domains.
