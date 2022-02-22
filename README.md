@@ -12,7 +12,7 @@ Currently pursuing Masters of Science degree in Computer Engineering at New York
 
 
 
-#### Education
+### Education
 **New York University, Tandon School of Engineering**, Brooklyn, NY, USA<br/>*Aug 2021 to May 2023*<br/>
 Master of Science, Computer Engineering, CGPA: 3.89/4.0<br/>
 (Internet Architecture & Protocol, Data Structure & Algorithms, Network Modeling & Analysis, Probability and Stochastic Processes, Introduction to JAVA)
@@ -21,12 +21,12 @@ Master of Science, Computer Engineering, CGPA: 3.89/4.0<br/>
 **Jadavpur University**, Kolkata, West Bengal, India<br/>*July 2012 to May 2016*<br/>
 Bachelors of Engineering, Instrumentation and Electronics, CGPA: 9.56/10.0
 
-#### Work Experience
+### Work Experience
 
 **Senior Instrumentation Engineer**, Cairn Oil & Gas, Vedanta Ltd. 
 <br/>*July 2016 to Aug 2021*
 
-##### Roles and Responsibilities: 			
+#### Roles and Responsibilities: 			
 - Logic & Graphic development in DCS, SCS and PLC-Yokogawa, Allen Bradley & Siemens system.
 - Maintenance, installation & commissioning of field instruments, engines, compressors, control panels, fire alarm and suppression system, control systems, etc.
 - Global Action Tracker points implementation and closure within timelines. 
@@ -62,7 +62,7 @@ Bachelors of Engineering, Instrumentation and Electronics, CGPA: 9.56/10.0
 - Preparation of monthly and weekly reports.
 
 
-##### Project: 
+#### Project: 
 
 1.	**Flare gas recovery of 2 mmscfd by laying a pipeline between two plants and installing a gas compressor.** <br/>
 **Activities-** Review of SOW and technical datasheet done. Logic prepared and hardwiring done in Allen Bradley PLC. Instruments cold loop and hot loop checks, cause and effect checks done.<br/>
@@ -153,7 +153,7 @@ Production enhancement
 24. **Tracker for POB, critical equipment availability, PM compliance** <br/>
 **Activities-** An excel file created for automatic update of POB under various categories wrt attendance, daily monitoring of equipment availability and monthly PM compliance.
 
-##### Inter departmental Activities:
+#### Inter departmental Activities:
 - Was involved in DG unloading activities at site.
 - Initiated tree plantation activity at site.
 - Involvement in installation and commissioning of RSEB power.
@@ -161,7 +161,7 @@ Production enhancement
 
 
 
-##### Asset Optimization:
+#### Asset Optimization:
 - Tracking of non-moving inventory ensured, and NMI material made available across all sites that saved raising of purchase requisition orders and led to cost saving
 - Ensured spares refurbishment of damaged materials and saved cost on purchase of new material
 - Kept a track of Preventive Maintenance (PM) Compliance
@@ -172,7 +172,7 @@ Production enhancement
 - Digitalization of Notification types in SAP.
 
 
-#### Projects
+### Projects
 - **Development of a QCM sensor for detection of trans-2-hexenal in tomatoes** Year: 2016 | Conference Paper | Publisher: IEEE<br/>
 A coating material formed by the chemical reaction process of pentafluorobenzyl bromide (PFBBr), polyethylene glycol 6000 (PEG 6000), tri-ethyl amine and chloroform was developed. Different characterization of the sensor has been performed e.g. sensitivity, selectivity, repeatability, reproducibility and the performance was verified.<br/>
 Tools: PCA and LDA in MATLAB
@@ -181,7 +181,7 @@ Tools: PCA and LDA in MATLAB
 Cyclic voltammetry based e-tongue in conjunction with UV-VIS spectroscopy was used to study the lycopene in various stages and different cultivars of tomato.<br/>
 Tools: PCA and LDA in MATLAB
 
-#### Awards and Honours
+### Awards and Honours
 
 1.	2021: Merit based scholarship at New York University
 2.	2021: CAFE award for singlehandely carrying out shutdown activities and ICS system maintenance jobs.
@@ -204,31 +204,31 @@ Tools: PCA and LDA in MATLAB
 19.	2009: 1st prize in 36th Jawaharlal Nehru Young Scientist’s  Exhibition at State Level
 20.	Received various awards in National Science and Cyber Oylmpiads.
 
-#### Areas of Responsibility
+### Roles of Responsibility
 
 1.	SPOC of process safety management- Ensuring compliance to override procedure in plant, timely normalization of overrides, its minimization and initiating actions for long term overrides.
 2.	SPOC of a 90mmscfd of gas processing unit- Complete monitoring of the plant from Instrumentation perspective responsible for completion of PM, procurement of material, implementation of RCFA recommendation, MOC execution, managing manpower, planning, resource allocation, execution, and documentation.
 3.	SPOC of VSAP module nominated by top management- Singlehandedly prepared for implementation of ”Continual Improvement and Assessment” module at site, closure of audit point, keeping tracker on progress and presenting before the auditor
 
-#### Technical Skills
-##### Languages
+### Technical Skills
+#### Languages
 C, C++,  Java, HTML
-##### Operating Systems
+#### Operating Systems
 Windows,Linux, MacOS
-##### Others
-SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, RSLogix 500, Factory Talk Studio,MATLAB
+#### Others
+SQL, Git, GitHub, Geni, MATLAB, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, RSLogix 500, Factory Talk Studio
 
-#### Summer Trainings:
+### Summer Trainings:
 - 2014-Summer Training at Reliance Power, Sasan
 - 2015-Summer Training at National Thermal Power Plant, Farakka
 
-#### Language
+### Language
 
 - English
 - Hindi
 - Bengali
 
-#### Certifications
+### Certifications
 - "Git Essential Training-The Basics" by LinkedIn Learning
 - "Learning SQL Programming" by LinkedIn Learning
 - Completed “Virtual Train the trainer” by Dale Carnegie which covered how to effectively conduct online trainings using Zoom and Teams platfom
@@ -240,7 +240,7 @@ SQL, Git, GitHub, Microsoft Office Suite, SAP, Pilog, Centum VP, RSLogix 5000, R
 - Completed training on Exploration and production by NeXT, Schlumberger by working on OilSim which is an upstream simulator for exploration and production.
 - Completed “First Aid Training” which involved how to deal in various medical emergencies.
 
-#### Extra Activities
+### Extra Activities
 
 1.	Chairman’s workshop- Was selected to present on the topic ”Innovation at Cairn” in front of the Chairman and Ex-Co members from total employees of approx 1500.
 2.	Technical  presentation- Was selected to present a poster in Technical Forum-2018 in the category ” Sustainability/ Environment Initiatives: Natural Gas Flare Recovery From Raag Oil” 
