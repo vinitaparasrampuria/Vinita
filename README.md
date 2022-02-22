@@ -64,93 +64,93 @@ Bachelors of Engineering, Instrumentation and Electronics, CGPA: 9.56/10.0
 
 ##### Project: 
 
-1.	**Flare gas recovery of 2 mmscfd by laying a pipeline between two plants and installing a gas compressor.** </br>
-**Activities-** Review of SOW and technical datasheet done. Logic prepared and hardwiring done in Allen Bradley PLC. Instruments cold loop and hot loop checks, cause and effect checks done.</br>
+1.	**Flare gas recovery of 2 mmscfd by laying a pipeline between two plants and installing a gas compressor.** <br/>
+**Activities-** Review of SOW and technical datasheet done. Logic prepared and hardwiring done in Allen Bradley PLC. Instruments cold loop and hot loop checks, cause and effect checks done.<br/>
 **Outcomes-** Reduction in emission of GHG, utilisation of 2mmscfd gas for sales with net revenue generation of $6.3M per year.
 
-2.	**Installation of smoke detection system in seven oil well pads.**</br>
-**Activities-** Completed the entire project from beginning to end comprising of engineering, purchase, installation, system testing and documentation inline with the MOC requirements.</br>
+2.	**Installation of smoke detection system in seven oil well pads.**<br/>
+**Activities-** Completed the entire project from beginning to end comprising of engineering, purchase, installation, system testing and documentation inline with the MOC requirements.<br/>
 **Outcomes-** Safety enhancement, waste reduction by removal of stand alone smoke detectors.
 
-3.	**New Oil Well pad installation and commissioning.** </br>
-**Activities-** Review of all field instruments and PLC, its procurement and/ or arrangement from other sites, installation and commission. Logic and SCADA development, field instruments hook up and run time checks as per plant cause and effect.</br>
+3.	**New Oil Well pad installation and commissioning.** <br/>
+**Activities-** Review of all field instruments and PLC, its procurement and/ or arrangement from other sites, installation and commission. Logic and SCADA development, field instruments hook up and run time checks as per plant cause and effect.<br/>
 **Outcomes-** Production volumes added 250 barrel/day with revenue of $4.6M per year.
 
-4. **Elimination of error in level measurement in tanks**</br>
-**Activities**- Carried out multiple tests and studied the design of the installation. Observed the type of transmitter used is incorrect. The results were accurate upon replacement.
+4. **Elimination of error in level measurement in tanks**<br/>
+**Activities**- Carried out multiple tests and studied the design of the installation. Observed the type of transmitter used is incorrect. The results were accurate upon replacement.<br/>
 **Outcome**-Appropriate hydrocarbin accounting, safety improvement
 
-5.	**Level transmitters and flow transmitters installation at oil well pads.**</br>
-**Activities-** Established a network of wireless transmitters by installing around 30 numbers Radar type level transmitters, seven coriolis flow meters and gateways in seven oil well pads. Complete engineering, procurement, installation, commissioning, configuration in Allen Bradley PLC, Yokogawa SCS, Siemens PLC and SCADA and auto report generation carried out.</br>
+5.	**Level transmitters and flow transmitters installation at oil well pads.**<br/>
+**Activities-** Established a network of wireless transmitters by installing around 30 numbers Radar type level transmitters, seven coriolis flow meters and gateways in seven oil well pads. Complete engineering, procurement, installation, commissioning, configuration in Allen Bradley PLC, Yokogawa SCS, Siemens PLC and SCADA and auto report generation carried out.<br/>
 **Outcomes-** Meeting requirement of hydrocarbon accounting, enhancement in safety and automation.
 
-6.	**Installation of weigh bridge at site**</br>
-**Activities-** Inclusive of  all civil activities, installation, calibration, Government stamping.</br>
+6.	**Installation of weigh bridge at site**<br/>
+**Activities-** Inclusive of  all civil activities, installation, calibration, Government stamping.<br/>
 **Outcomes-** Meeting requirements of hydrocarbon accounting and reconciliation of crude transfered from well pads to processing terminals.
 
-7.	**Installation of dual fired burner system at site.**</br>
-**Activities-** Burner system with gas train installed at site which included datasheet finalisation, procurement, installation, testing and hookup with CCR.</br>
+7.	**Installation of dual fired burner system at site.**<br/>
+**Activities-** Burner system with gas train installed at site which included datasheet finalisation, procurement, installation, testing and hookup with CCR.<br/>
 **Outcomes-** Reduction in GHG emission by running on gas mode, prevention of congealing of crude oil in a 250barrel/day production plant.
 
-8.	**Flame and gas detector installation at site.** </br>
-**Activities-** Around 15 numbers of fire and gas detectors installed and hooked up with PLC and DCS.</br>
-**Outcomes-** Safety enhancement and statutory regulations.Implementation of Fire & Gas optimisation study.</br>
+8.	**Flame and gas detector installation at site.** <br/>
+**Activities-** Around 15 numbers of fire and gas detectors installed and hooked up with PLC and DCS.<br/>
+**Outcomes-** Safety enhancement and statutory regulations.Implementation of Fire & Gas optimisation study.<br/>
 
-9.	**Installation of new PLC system at two well pads.**</br>
-**Activities-** Successfully completed automation of two well pads running on relay logic and pneumatic system. Study of IO requirement, preparation of BOM, wiring diagram, procurement, installation, commissioning, cause and effect checks carried out. </br>
+9.	**Installation of new PLC system at two well pads.**<br/>
+**Activities-** Successfully completed automation of two well pads running on relay logic and pneumatic system. Study of IO requirement, preparation of BOM, wiring diagram, procurement, installation, commissioning, cause and effect checks carried out. <br/>
 **Outcomes-** Automation of two well pads, safety improvement.
 
-10.	**Instrumentation activities related to new well hook up with surface facilities, SRP installation.**</br>
-**Activities-** All field instruments installation, creation of logic in PLC, graphics development, cause and effect checks carried out.</br>
+10.	**Instrumentation activities related to new well hook up with surface facilities, SRP installation.**<br/>
+**Activities-** All field instruments installation, creation of logic in PLC, graphics development, cause and effect checks carried out.<br/>
 **Outcomes-** Increase in production volumes.
 
-11.	**Automation of tanker filling operations.**</br>
-**Activities-** Implementation of logic for auto tripping of export pumps on filling of tankers or absence of earth integrity.</br>
+11.	**Automation of tanker filling operations.**<br/>
+**Activities-** Implementation of logic for auto tripping of export pumps on filling of tankers or absence of earth integrity.<br/>
 **Outcomes-** Reduction in manual operation, prevention of over spill, safety improvement, statutory regulations.
 
-12.	**Installation and upgradation of SCADA system at two oil well pads.**</br>
-**Activities-** Allen Bradley  RS View 32 upgraded to Factory talk view and new SCADA installed for Siemens system in place of HMI.</br>
+12.	**Installation and upgradation of SCADA system at two oil well pads.**<br/>
+**Activities-** Allen Bradley  RS View 32 upgraded to Factory talk view and new SCADA installed for Siemens system in place of HMI.<br/>
 **Outcomes-** Password protection to eliminate unauthorised overrides, increased functionality, auto reporting
 
-13.	**Rerouting of RAAG 3 well flow line to facilitate easy rig movement.**</br>
-**Activities-** Complete re routing of surface facilities of four oil wells-removal and re installation of transmitters and valves, cable routing, simulation checks and cause and effect checks.</br>
+13.	**Rerouting of RAAG 3 well flow line to facilitate easy rig movement.**<br/>
+**Activities-** Complete re routing of surface facilities of four oil wells-removal and re installation of transmitters and valves, cable routing, simulation checks and cause and effect checks.<br/>
 **Outcomes-** Easy rig movement for drilling and work over activities. 
 
-14.	**Elimination of error in level measurement of tanks.**</br>
-**Activities-** Studied the design parameters and GAD of tannks and concluded the error is due to coils running at the bottom and use of stilling well in unguided radar transmitters. Relocation and reconfiguration of transmitters done.</br>
+14.	**Elimination of error in level measurement of tanks.**<br/>
+**Activities-** Studied the design parameters and GAD of tannks and concluded the error is due to coils running at the bottom and use of stilling well in unguided radar transmitters. Relocation and reconfiguration of transmitters done.<br/>
 **Outcomes-** Accuracy improvement, reconciliation of hydrocarbon, statutory requirement.
 
-15.	**Reduction in produced water pump failure.** </br>
-**Activities-** Recycle line PIT and PCV installed, logic created in PLC and graphics developed.</br>
+15.	**Reduction in produced water pump failure.** <br/>
+**Activities-** Recycle line PIT and PCV installed, logic created in PLC and graphics developed.<br/>
 **Outcomes-** Increase in reliability of system, savings in spares consumption
 
-16.	**BOM preparation and spares procurement of 150mmscfd capacity gas terminal and 90mmscfd gas terminal.**</br>
-**Activities-** Data collection from field, communication with vendors and service providers, codification in Pilog and material procurement through MM module in SAP.</br>
+16.	**BOM preparation and spares procurement of 150mmscfd capacity gas terminal and 90mmscfd gas terminal.**<br/>
+**Activities-** Data collection from field, communication with vendors and service providers, codification in Pilog and material procurement through MM module in SAP.<br/>
 **Outcomes-** Reduction in downtime due to availability of spares and services.
 
-17.	**WHCP commissioning at well pads**</br>
-**Activities-** Installation, SAT and commissioning carried out for new Well head control panels as part of expansion projects.</br>
+17.	**WHCP commissioning at well pads**<br/>
+**Activities-** Installation, SAT and commissioning carried out for new Well head control panels as part of expansion projects.<br/>
 Production enhancement
 
-18.	**Commissioning of new gas wells and well pads<**/br>
+18.	**Commissioning of new gas wells and well pads**<br/>
 **Activities-** DCS, Transmitters, F&G detectors and motorised control valves installation, simulation checks, testing and cause and effect checks.
 
 19.	**Commissioning of building Fire alarm suppression system**
 
-20.	**Communication establishment between Hydrocarbon Dew point system from base plant to and new plant via fibre optic communication.**</br>
+20.	**Communication establishment between Hydrocarbon Dew point system from base plant to and new plant via fibre optic communication.**<br/>
 **Outcomes-** Centralization of control system
 
-21.	**Communication establishment between two gas plants**</br>
-**Activities-** Modbus communication established between 45 mmscfd plant with Yokogawa system to 90mmscfd plant with Allen Bradley.</br>
+21.	**Communication establishment between two gas plants**<br/>
+**Activities-** Modbus communication established between 45 mmscfd plant with Yokogawa system to 90mmscfd plant with Allen Bradley.<br/>
 **Outcomes-** Monitoring of parameters at one place, reporting in Babel Fish.
 
-22.	**Executed the project of installing Pressure Transmitters in Annulus of Christmas tree of 30 Gas Wells**</br>
+22.	**Executed the project of installing Pressure Transmitters in Annulus of Christmas tree of 30 Gas Wells**<br/>
 **Outcome** -Better monitoring of well parameters and optimization of well
 
-23.	**Manual Call Point replacement in one gas terminal, three gas well pads and eight oil well pads.**</br>
+23.	**Manual Call Point replacement in one gas terminal, three gas well pads and eight oil well pads.**<br/>
 **Outcomes-** Uniformity in MCP by installing same kind of MCP at all sites for ease of operation.
 
-24. **Tracker for POB, critical equipment availability, PM compliance** </br>
+24. **Tracker for POB, critical equipment availability, PM compliance** <br/>
 **Activities-** An excel file created for automatic update of POB under various categories wrt attendance, daily monitoring of equipment availability and monthly PM compliance.
 
 ##### Inter departmental Activities:
